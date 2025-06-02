@@ -49,3 +49,13 @@ The model achieved the final test loss of 0.0195 from the enhanced model. Detail
 ```bash
 git clone https://github.com/yaobao1001/Seminar-project_LSTM.git
 cd seminar-project
+
+2.	Install the required packages:
+
+pip install -r requirements.txt
+
+3.	Run the main script:
+
+python src/lstm_baseline.py
+
+
