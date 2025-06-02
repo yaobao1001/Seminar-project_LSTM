@@ -1,0 +1,10 @@
+numpy>=1.23.0
+pandas>=2.2.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+tensorflow>=2.12.0       # CPU/GPU compatible; install-specific builds as needed
+transformers>=4.35.0      # For FinBERT and HuggingFace models
+torch>=2.0.0              # Optional: if you use PyTorch with FinBERT or other models
+yfinance>=0.2.0           # For financial market data
+tqdm>=4.65.0              # For progress bars
+regex>=2024.0.0           # Useful for text preprocessing
